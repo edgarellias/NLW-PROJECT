@@ -1,0 +1,9 @@
+body {
+	background-image: url("./src/assets/background_galaxy.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+* {
+	font-family: "Inter", sans-serif;
+}
